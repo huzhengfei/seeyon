@@ -1,1 +1,1 @@
-* [@Java规范](https://github.com/charice59/seeyon/tree/master/codeConvention/Java/java-index.md)
+* [Java规范](https://github.com/charice59/seeyon/tree/master/codeConvention/Java/java-index.md)
